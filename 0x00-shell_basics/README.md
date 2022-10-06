@@ -1,1 +1,1 @@
-created a script that deletes a directory
+created a script to move to the previous directory
