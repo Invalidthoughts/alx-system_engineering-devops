@@ -1,1 +1,1 @@
-created a script to move to the previous directory
+created a script that lists all files in a directory
