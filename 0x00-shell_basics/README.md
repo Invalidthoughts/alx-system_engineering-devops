@@ -1,1 +1,1 @@
-created a script that shows file type
+created a script that creates a link
