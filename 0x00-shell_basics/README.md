@@ -1,1 +1,1 @@
-move a file
+created a script that deletes a file
