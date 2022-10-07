@@ -1,1 +1,1 @@
-created a directory and set the mode to 751
+created a script that changes the owner of a group
