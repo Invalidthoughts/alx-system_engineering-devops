@@ -1,1 +1,1 @@
-created a script that makes a file executable
+created a script that adds execution permission to files
