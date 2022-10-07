@@ -1,1 +1,1 @@
-created a script that gives permissions
+created a script that mirrors another file mode
