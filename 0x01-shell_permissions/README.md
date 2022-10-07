@@ -1,1 +1,1 @@
-creating a script that switches user to betty
+created a script that prints current username
