@@ -1,1 +1,1 @@
-gives complete permissions to other users
+created a script that gives permissions
