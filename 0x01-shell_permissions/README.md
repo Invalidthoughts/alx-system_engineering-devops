@@ -1,1 +1,1 @@
-created a script that changes the file owner
+created a script that prints an empty file
