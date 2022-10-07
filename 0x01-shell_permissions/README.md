@@ -1,1 +1,1 @@
-created a script that prints an empty file
+created a script that makes a file executable
