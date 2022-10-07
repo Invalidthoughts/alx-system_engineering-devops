@@ -1,1 +1,1 @@
-created a script that writes the execution permission to all subdirectories of current directory
+created a directory and set the mode to 751
