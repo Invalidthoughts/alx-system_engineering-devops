@@ -1,1 +1,1 @@
-created a script that adds execution permission to all users
+gives complete permissions to other users
