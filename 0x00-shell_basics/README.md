@@ -1,1 +1,1 @@
-created a script that creates a link
+created a script that copies all html files
