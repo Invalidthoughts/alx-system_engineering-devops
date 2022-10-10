@@ -1,1 +1,1 @@
-created a script that wrote the ls -la command into a file
+created a script that duplicates the last line of a file
