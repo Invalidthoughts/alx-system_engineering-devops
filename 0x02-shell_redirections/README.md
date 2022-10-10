@@ -1,1 +1,1 @@
-created a script that prints the last lines of a file
+created a script that displays the first lines in a file
