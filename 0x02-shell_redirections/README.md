@@ -1,1 +1,1 @@
-Created a script that displayed file content
+created a script that displays the contentt of two files
