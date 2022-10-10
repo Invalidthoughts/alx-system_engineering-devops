@@ -1,1 +1,1 @@
-created a script that displays the contentt of two files
+created a script that prints the last lines of a file
