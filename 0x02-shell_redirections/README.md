@@ -1,1 +1,1 @@
-created a script that displays the first lines in a file
+created a script that displays the third line of a file
