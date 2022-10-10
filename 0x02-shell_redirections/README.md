@@ -1,1 +1,1 @@
-created a script that displays the third line of a file
+created a script that wrote the ls -la command into a file
