@@ -1,1 +1,1 @@
-created a script that displays files that contain the word bin
+created a script that displays three lines after the line root
