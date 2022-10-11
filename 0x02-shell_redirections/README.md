@@ -1,1 +1,1 @@
-created a script that prints that only appear once
+created a script that finds the word root in the file
