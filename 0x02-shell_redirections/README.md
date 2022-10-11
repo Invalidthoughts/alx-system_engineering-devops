@@ -1,1 +1,1 @@
-created a script that duplicates the last line of a file
+created a script that deletes files extensions
