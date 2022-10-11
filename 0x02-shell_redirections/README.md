@@ -1,1 +1,1 @@
-created a script that displays the ten newest lines in a file
+created a script that prints that only appear once
