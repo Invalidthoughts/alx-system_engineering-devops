@@ -1,1 +1,1 @@
-created a script that created an alias
+shell variables expansions task
