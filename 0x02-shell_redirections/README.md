@@ -1,1 +1,1 @@
-created a script that finds the word root in the file
+created a script that displays files that contain the word bin
