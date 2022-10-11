@@ -1,1 +1,1 @@
-created a script that deletes files extensions
+created a script that lists the number of directories in the current directory
