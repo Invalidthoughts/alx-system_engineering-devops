@@ -1,1 +1,1 @@
-created a script that lists the number of directories in the current directory
+created a script that displays the ten newest lines in a file
