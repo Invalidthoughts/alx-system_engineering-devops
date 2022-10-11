@@ -1,1 +1,1 @@
-created a script that displays lines beginning with letters
+created a script that replaces A and c with Z and e
