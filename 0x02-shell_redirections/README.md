@@ -1,1 +1,1 @@
-created a script that displays lines that do not contain bon
+created a script that displays lines beginning with letters
