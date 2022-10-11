@@ -1,1 +1,1 @@
-created a script that replaces A and c with Z and e
+created a script that removes cC from input
