@@ -1,1 +1,1 @@
-created a script that displays three lines after the line root
+created a script that displays lines that do not contain bon
