@@ -1,1 +1,1 @@
-created a script that removes cC from input
+created a script that reverses input
